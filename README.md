@@ -37,7 +37,7 @@ I build practical, privacy‑respecting AI systems that run locally and make a r
 
 ---
 
-## 🧠 Top Skills (deduced from my work)
+## 🧠 Top Skills 
 - AI/ML: Speech recognition and transcription, NLP/LLMs (prompting + LoRA fine‑tuning), fuzzy logic systems, recommender systems, classical ML
 - Generative AI: Stable Diffusion (SDXL) pipelines, Kohya_ss training, BLIP, safetensors
 - Optimization & Efficiency: LoRA, Adafactor, BF16 precision, small‑footprint local deployments
