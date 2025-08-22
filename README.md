@@ -72,9 +72,8 @@ I build practical, privacy‑respecting AI systems that run locally and make a r
 
 ## 🎓 Education
 - MSc, Artificial Intelligence — Asia Pacific University of Technology and Innovation (APU/APIIT) & De Montfort University (Dual Degree), 2023–2024
-  - Semester GPAs: 3.42/4, 3.58/4, 3.5/4
   - Activities: Software Engineering Project Showcase, Open Source Contribution, Technology & Innovation Society, Programming Club
-- B.Tech, Computer Science & Engineering — G.D. Goenka University, 2022 (CGPA: 7.01)
+- B.Tech, Computer Science & Engineering — G.D. Goenka University, 2022 
   - Specialization in AI & Machine Learning
 
 ---
