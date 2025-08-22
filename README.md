@@ -1,4 +1,4 @@
-# Hi, I'm Satyam Saxena 👋
+# Hi, I'm Satyam Saxena 
 AI/ML Researcher • Open‑source Developer • AI Ethics & Bias Mitigation • Advocate for Centrally‑Localized (On‑Device/Self‑Hosted) LLMs • Public Speaker
 
 I build practical, privacy‑respecting AI systems that run locally and make a real impact. I care deeply about accessibility, model efficiency, and responsible AI. My work spans speech recognition, LLM fine‑tuning (LoRA), generative imaging, fuzzy logic control, and data tooling—always with a bias toward clear UX and simple, reproducible installs.
@@ -13,7 +13,7 @@ I build practical, privacy‑respecting AI systems that run locally and make a r
 
 ---
 
-## 🌟 Featured: Accessibility‑First Live Speech Captions
+## Featured: Accessibility‑First Live Speech Captions
 - Project: Subtitles for Visual Impairment Assistance — local, lightweight live speech transcription
 - Why I built it: After being diagnosed with ear injuries and dealing with intermittent tinnitus, I relied on Chrome’s live captions. When I switched to Firefox and lost that feature, I built a locally hosted, open‑source alternative with a simple install.
 - Highlights:
@@ -26,7 +26,7 @@ I build practical, privacy‑respecting AI systems that run locally and make a r
 
 ---
 
-## 🧪 Projects
+## Projects
 - Intelligent Joining Speed on Highways (Fuzzy Logic)
   - A fuzzy‑logic system that ingests lane condition, oncoming traffic, lane density, vehicle distance, etc., and recommends near‑instant optimal merge speed using >100 rules with Gaussian/logistic/singleton membership functions.
   - Repo: https://github.com/SatyamSaxena1/fuzzy-logic-highway-proj
@@ -37,7 +37,7 @@ I build practical, privacy‑respecting AI systems that run locally and make a r
 
 ---
 
-## 🧠 Top Skills 
+## Top Skills 
 - AI/ML: Speech recognition and transcription, NLP/LLMs (prompting + LoRA fine‑tuning), fuzzy logic systems, recommender systems, classical ML
 - Generative AI: Stable Diffusion (SDXL) pipelines, Kohya_ss training, BLIP, safetensors
 - Optimization & Efficiency: LoRA, Adafactor, BF16 precision, small‑footprint local deployments
@@ -49,7 +49,7 @@ I build practical, privacy‑respecting AI systems that run locally and make a r
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch"/>
@@ -70,7 +70,7 @@ I build practical, privacy‑respecting AI systems that run locally and make a r
 
 ---
 
-## 🎓 Education
+## Education
 - MSc, Artificial Intelligence — Asia Pacific University of Technology and Innovation (APU/APIIT) & De Montfort University (Dual Degree), 2023–2024
   - Activities: Software Engineering Project Showcase, Open Source Contribution, Technology & Innovation Society, Programming Club
 - B.Tech, Computer Science & Engineering — G.D. Goenka University, 2022 
@@ -78,7 +78,7 @@ I build practical, privacy‑respecting AI systems that run locally and make a r
 
 ---
 
-## 💬 What I care about
+## What I care about
 - Ethical AI and bias mitigation baked into the lifecycle
 - Privacy‑first, centrally‑localized/on‑device LLMs
 - Sustainable, efficient systems that are easy to install and use
@@ -86,5 +86,5 @@ I build practical, privacy‑respecting AI systems that run locally and make a r
 
 ---
 
-## 📫 Get in touch
+## Get in touch
 Email only: satyam.saxena11@yahoo.com
