@@ -79,20 +79,6 @@ I build practical, privacy‑respecting AI systems that run locally and make a r
 
 ---
 
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SatyamSaxena1&show_icons=true&theme=transparent" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamSaxena1&layout=compact&theme=transparent" alt="Top languages" height="165"/>
-</p>
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=SatyamSaxena1&theme=transparent" alt="GitHub Streak"/>
-</p>
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=SatyamSaxena1&theme=algolia&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
-</p>
-
----
-
 ## 💬 What I care about
 - Ethical AI and bias mitigation baked into the lifecycle
 - Privacy‑first, centrally‑localized/on‑device LLMs
