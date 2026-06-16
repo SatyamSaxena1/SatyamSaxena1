@@ -26,6 +26,12 @@ I build practical, privacy‑respecting AI systems that run locally and make a r
 
 ---
 
+## Featured: Railway Inspection Project Gallery
+- Live page: https://satyamsaxena1.github.io/lucknow_running_railway/
+- Repo: https://github.com/SatyamSaxena1/lucknow_running_railway
+- What it highlights: pantograph monitoring, GPS route maps, ZED depth integration, model conversion utilities, and field launch scripts for railway inspection workflows.
+
+---
 ## Projects
 - Intelligent Joining Speed on Highways (Fuzzy Logic)
   - A fuzzy‑logic system that ingests lane condition, oncoming traffic, lane density, vehicle distance, etc., and recommends near‑instant optimal merge speed using >100 rules with Gaussian/logistic/singleton membership functions.
