@@ -14,40 +14,43 @@ I build practical, privacy‑respecting AI systems that run locally and make a r
 
 ---
 
-## Project Launchpad
+## Portfolio Launchpad
 
 <p>
-  <a href="https://satyamsaxena1.github.io/lucknow_running_railway/">
-    <img src="https://img.shields.io/badge/Open-Live%20Railway%20Project%20Gallery-bf3036?style=for-the-badge" alt="Open live railway project gallery"/>
+  <a href="https://satyamsaxena1.github.io/">
+    <img src="https://img.shields.io/badge/Open-Portfolio%20Site-bf3036?style=for-the-badge" alt="Open portfolio site"/>
+  </a>
+  <a href="https://github.com/SatyamSaxena1/SatyamSaxena1.github.io">
+    <img src="https://img.shields.io/badge/View-Portfolio%20Source-24292f?style=for-the-badge&logo=github" alt="View portfolio source"/>
   </a>
   <a href="https://github.com/SatyamSaxena1/lucknow_running_railway">
-    <img src="https://img.shields.io/badge/View-Source%20Repo-24292f?style=for-the-badge&logo=github" alt="View source repository"/>
+    <img src="https://img.shields.io/badge/Open-Railway%20Repo-0f6e69?style=for-the-badge&logo=github" alt="Open railway repository"/>
   </a>
 </p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://satyamsaxena1.github.io/lucknow_running_railway/">Railway Inspection Project Gallery</a></h3>
-      <p>Frontend hub for pantograph monitoring, GPS route maps, ZED depth integration, TensorRT utilities, and field launch scripts.</p>
-      <p><a href="https://satyamsaxena1.github.io/lucknow_running_railway/">Use the live page</a> | <a href="https://github.com/SatyamSaxena1/lucknow_running_railway">Code</a></p>
+      <h3><a href="https://satyamsaxena1.github.io/">Portfolio Website</a></h3>
+      <p>GitHub Pages portfolio for applied AI, railway inspection, GPS tooling, and public engineering projects.</p>
+      <p><a href="https://satyamsaxena1.github.io/">Open site</a> | <a href="https://github.com/SatyamSaxena1/SatyamSaxena1.github.io">Source</a></p>
     </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://satyamsaxena1.github.io/lucknow_running_railway/">Railway Inspection System</a></h3>
+      <p>Real-time pantograph monitoring with computer vision, GPS route maps, ZED depth integration, TensorRT utilities, and field launch scripts.</p>
+      <p><a href="https://satyamsaxena1.github.io/lucknow_running_railway/">Project page</a> | <a href="https://github.com/SatyamSaxena1/lucknow_running_railway">Code</a></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/SatyamSaxena1/Subtitles-for-Visual-Impairment-Assistance-">Accessibility-First Live Speech Captions</a></h3>
       <p>Local, lightweight live transcription with modes for fast highlighted captions and longer continuous context.</p>
       <p><a href="https://github.com/SatyamSaxena1/Subtitles-for-Visual-Impairment-Assistance-">Open repo</a></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/SatyamSaxena1/fuzzy-logic-highway-proj">Intelligent Joining Speed on Highways</a></h3>
       <p>Fuzzy-logic merge-speed recommendation system using lane state, traffic density, vehicle distance, and rule-based inference.</p>
       <p><a href="https://github.com/SatyamSaxena1/fuzzy-logic-highway-proj">Open repo</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/SatyamSaxena1/reddit-scraper-for-mind-map-project">Saved Posts to Mind Map</a></h3>
-      <p>WIP knowledge resurfacing workflow for clustering exported saved posts and turning scattered ideas into browsable boards.</p>
-      <p><a href="https://github.com/SatyamSaxena1/reddit-scraper-for-mind-map-project">Open repo</a></p>
     </td>
   </tr>
 </table>
