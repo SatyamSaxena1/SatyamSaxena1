@@ -10,6 +10,49 @@ I build practical, privacy‑respecting AI systems that run locally and make a r
   <a href="https://www.linkedin.com/in/satyam-saxena-754155134/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/SatyamSaxena1?tab=followers"><img src="https://img.shields.io/github/followers/SatyamSaxena1?label=Followers&style=social" alt="GitHub followers"/></a>
 </p>
+<!-- PROJECT_LAUNCHPAD_START -->
+
+---
+
+## Project Launchpad
+
+<p>
+  <a href="https://satyamsaxena1.github.io/lucknow_running_railway/">
+    <img src="https://img.shields.io/badge/Open-Live%20Railway%20Project%20Gallery-bf3036?style=for-the-badge" alt="Open live railway project gallery"/>
+  </a>
+  <a href="https://github.com/SatyamSaxena1/lucknow_running_railway">
+    <img src="https://img.shields.io/badge/View-Source%20Repo-24292f?style=for-the-badge&logo=github" alt="View source repository"/>
+  </a>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://satyamsaxena1.github.io/lucknow_running_railway/">Railway Inspection Project Gallery</a></h3>
+      <p>Frontend hub for pantograph monitoring, GPS route maps, ZED depth integration, TensorRT utilities, and field launch scripts.</p>
+      <p><a href="https://satyamsaxena1.github.io/lucknow_running_railway/">Use the live page</a> | <a href="https://github.com/SatyamSaxena1/lucknow_running_railway">Code</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SatyamSaxena1/Subtitles-for-Visual-Impairment-Assistance-">Accessibility-First Live Speech Captions</a></h3>
+      <p>Local, lightweight live transcription with modes for fast highlighted captions and longer continuous context.</p>
+      <p><a href="https://github.com/SatyamSaxena1/Subtitles-for-Visual-Impairment-Assistance-">Open repo</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SatyamSaxena1/fuzzy-logic-highway-proj">Intelligent Joining Speed on Highways</a></h3>
+      <p>Fuzzy-logic merge-speed recommendation system using lane state, traffic density, vehicle distance, and rule-based inference.</p>
+      <p><a href="https://github.com/SatyamSaxena1/fuzzy-logic-highway-proj">Open repo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SatyamSaxena1/reddit-scraper-for-mind-map-project">Saved Posts to Mind Map</a></h3>
+      <p>WIP knowledge resurfacing workflow for clustering exported saved posts and turning scattered ideas into browsable boards.</p>
+      <p><a href="https://github.com/SatyamSaxena1/reddit-scraper-for-mind-map-project">Open repo</a></p>
+    </td>
+  </tr>
+</table>
+
+<!-- PROJECT_LAUNCHPAD_END -->
 
 ---
 
@@ -24,14 +67,8 @@ I build practical, privacy‑respecting AI systems that run locally and make a r
   - Designed for accessibility, privacy, and low overhead
 - Repo: https://github.com/SatyamSaxena1/Subtitles-for-Visual-Impairment-Assistance-
 
----
 
-## Featured: Railway Inspection Project Gallery
-- Live page: https://satyamsaxena1.github.io/lucknow_running_railway/
-- Repo: https://github.com/SatyamSaxena1/lucknow_running_railway
-- What it highlights: pantograph monitoring, GPS route maps, ZED depth integration, model conversion utilities, and field launch scripts for railway inspection workflows.
 
----
 ## Projects
 - Intelligent Joining Speed on Highways (Fuzzy Logic)
   - A fuzzy‑logic system that ingests lane condition, oncoming traffic, lane density, vehicle distance, etc., and recommends near‑instant optimal merge speed using >100 rules with Gaussian/logistic/singleton membership functions.
