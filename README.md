@@ -24,8 +24,8 @@ I build practical, privacy‑respecting AI systems that run locally and make a r
   <a href="https://github.com/SatyamSaxena1/SatyamSaxena1.github.io">
     <img src="https://img.shields.io/badge/View-Portfolio%20Source-24292f?style=for-the-badge&logo=github" alt="View portfolio source"/>
   </a>
-  <a href="https://github.com/SatyamSaxena1/lucknow_running_railway">
-    <img src="https://img.shields.io/badge/Open-Railway%20Repo-0f6e69?style=for-the-badge&logo=github" alt="Open railway repository"/>
+  <a href="https://satyamsaxena1.github.io/railway/">
+    <img src="https://img.shields.io/badge/Read-Railway%20Story-0f6e69?style=for-the-badge" alt="Read the railway project story"/>
   </a>
 </p>
 
@@ -37,9 +37,9 @@ I build practical, privacy‑respecting AI systems that run locally and make a r
       <p><a href="https://satyamsaxena1.github.io/">Open site</a> | <a href="https://github.com/SatyamSaxena1/SatyamSaxena1.github.io">Source</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://satyamsaxena1.github.io/lucknow_running_railway/">Railway Inspection System</a></h3>
-      <p>Real-time pantograph monitoring with computer vision, GPS route maps, ZED depth integration, TensorRT utilities, and field launch scripts.</p>
-      <p><a href="https://satyamsaxena1.github.io/lucknow_running_railway/">Project page</a> | <a href="https://github.com/SatyamSaxena1/lucknow_running_railway">Code</a></p>
+      <h3><a href="https://satyamsaxena1.github.io/railway/">Railway Vision</a></h3>
+      <p>Pantograph and overhead-line detection from cabin-camera video: 23,551 labelled frames, YOLO26x and RF-DETR, and the story of how it was built.</p>
+      <p><a href="https://satyamsaxena1.github.io/railway/">Project story</a> | <a href="https://github.com/SatyamSaxena1/railway-overhead-line-detection">Documentation</a></p>
     </td>
   </tr>
   <tr>
@@ -66,6 +66,7 @@ I build practical, privacy‑respecting AI systems that run locally and make a r
 - How it was labelled: a small pretrained detector pre-annotates, tracking carries boxes between frames, and I review every frame by hand. I tried oriented boxes and dropped them, because for height measurement the top edge of a box must stay parallel to the bottom of the frame and rotation was extra work for no payoff.
 - Models: YOLO26x (mAP@50:95 0.698) and RF-DETR Large (0.679), validated on different sets, so not a head-to-head ranking. Per-class scores, the data-prep steps, a development timeline and the known issues in the labels are in the write-up.
 - Write-up and samples: https://www.kaggle.com/datasets/satyamsaxena12/railway-overhead-line-showcase
+- Project story and documentation: https://satyamsaxena1.github.io/railway/ and https://github.com/SatyamSaxena1/railway-overhead-line-detection
 
 ---
 
