@@ -8,6 +8,7 @@ I build practical, privacy‑respecting AI systems that run locally and make a r
   <img src="https://komarev.com/ghpvc/?username=SatyamSaxena1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
   <a href="mailto:satyam.saxena11@yahoo.com"><img src="https://img.shields.io/badge/Email-satyam.saxena11%40yahoo.com-8B89CC?logo=minutemailer&logoColor=white" alt="Email badge"/></a>
   <a href="https://www.linkedin.com/in/satyam-saxena-754155134/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.kaggle.com/satyamsaxena12"><img src="https://img.shields.io/badge/Kaggle-satyamsaxena12-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle"/></a>
   <a href="https://github.com/SatyamSaxena1?tab=followers"><img src="https://img.shields.io/github/followers/SatyamSaxena1?label=Followers&style=social" alt="GitHub followers"/></a>
 </p>
 <!-- PROJECT_LAUNCHPAD_START -->
@@ -56,6 +57,15 @@ I build practical, privacy‑respecting AI systems that run locally and make a r
 </table>
 
 <!-- PROJECT_LAUNCHPAD_END -->
+
+---
+
+## Featured: Railway Overhead-Line Detection (Data and Models)
+- What: detecting the pantograph, masts, arms and contact points on overhead electrification from cabin-camera video, so that heights can be measured from a detection.
+- The data: 23,551 frames from five Indian routes (Lucknow, Ahmedabad, Mehsana, Palanpur, Mumbai), annotated by me in CVAT. The full dataset is private and protected; a public write-up with sample frames is on Kaggle.
+- How it was labelled: a small pretrained detector pre-annotates, tracking carries boxes between frames, and I review every frame by hand. I tried oriented boxes and dropped them, because for height measurement the top edge of a box must stay parallel to the bottom of the frame and rotation was extra work for no payoff.
+- Models: YOLO26x (mAP@50:95 0.698) and RF-DETR Large (0.679), validated on different sets, so not a head-to-head ranking. Per-class scores, the data-prep steps, a development timeline and the known issues in the labels are in the write-up.
+- Write-up and samples: https://www.kaggle.com/datasets/satyamsaxena12/railway-overhead-line-showcase
 
 ---
 
